@@ -1,5 +1,5 @@
 # TelkomXsight-ePom
-ePom using TelkomXsight's API
+ePom by using TelkomXsight's API
 
 This is part of ePom Project to fulfill Telkom 2018 Hackathon's requirement
 
